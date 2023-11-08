@@ -11,3 +11,7 @@ if(fruit === 'apple') {
 } else {
     console.log('!!');
 }
+
+if(0) {
+    console.log('출력되면 안됨!');
+}
